@@ -1,1 +1,1 @@
-var bla = 123
+val bla = 123
